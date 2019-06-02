@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548042562752.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3952263113",
+    "id" : "14DAA624",
+    "lastKnownWriteTime" : 1547349822,
+    "last_content_update" : 1547349822,
+    "path" : "~/Downloads/老大专属/GSE/GSE17215/step0003-heatmap.R",
+    "project_path" : "step0003-heatmap.R",
+    "properties" : {
+        "cursorPosition" : "18,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548033415336.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "177021616",
+    "id" : "9CF19FA4",
+    "lastKnownWriteTime" : 1547349822,
+    "last_content_update" : 1547349822,
+    "path" : "~/Downloads/老大专属/GSE/GSE17215/step1-download.R",
+    "project_path" : "step1-download.R",
+    "properties" : {
+        "cursorPosition" : "29,43",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

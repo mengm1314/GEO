@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548042609728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2874776087",
+    "id" : "8B818C3C",
+    "lastKnownWriteTime" : 1547349824,
+    "last_content_update" : 1547349824,
+    "path" : "~/Downloads/老大专属/GSE/GSE17215/step3-DEG.R",
+    "project_path" : "step3-DEG.R",
+    "properties" : {
+        "cursorPosition" : "11,40",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

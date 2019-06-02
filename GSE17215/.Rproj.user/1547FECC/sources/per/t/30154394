@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548049063512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1752758321",
+    "id" : "30154394",
+    "lastKnownWriteTime" : 1547349824,
+    "last_content_update" : 1547349824,
+    "path" : "~/Downloads/老大专属/GSE/GSE17215/step4-anno.R",
+    "project_path" : "step4-anno.R",
+    "properties" : {
+        "cursorPosition" : "71,46",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
